@@ -1,2 +1,2 @@
 ipywidgets
-voila>=0.4.0
+voila>=0.5.8
